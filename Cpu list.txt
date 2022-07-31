@@ -1,0 +1,26 @@
+Name                                Link
+
+Intel_Core_i5_9400F  - https://www.newegg.com/intel-core-i5-9th-gen-core-i5-9400f/p/N82E16819117981?Description=Intel%20Core%20i5-9400F&cm_re=Intel_Core%20i5-9400F-_-19-117-981-_-Product
+
+AMD Ryzen 3 3200G    - https://www.newegg.com/amd-ryzen-3-3200g/p/N82E16819113571?Description=AMD%20Ryzen%203%203200G&cm_re=AMD_Ryzen%203%203200G-_-19-113-571-_-Product&quicklink=true
+
+AMD Ryzen 5 3400G    - https://www.newegg.com/amd-ryzen-5-3400g/p/N82E16819113570
+
+Intel Core i9-11900K - https://www.newegg.com/Intel-Core-i9-11900K-Core-i9-11th-Gen/p/19-118-231
+
+AMD Ryzen 9 5900X    - https://www.newegg.com/AMD-Ryzen-9-5900X/p/19-113-664
+
+AMD Ryzen 7 5700X    - https://www.newegg.com/amd-ryzen-7-5700x-ryzen-7-5000-series/p/N82E16819113735?Description=processor&cm_re=processor-_-19-113-735-_-Product&quicklink=true 
+
+Intel Core i7-12700K - https://www.newegg.com/intel-core-i7-12700k-core-i7-12th-gen/p/N82E16819118343?Description=processor&cm_re=processor-_-19-118-343-_-Product
+
+*Intel Core i9-12900KS - https://www.newegg.com/intel-core-i9-12900ks-core-i9-12th-gen/p/N82E16819118392?Description=intel&cm_re=intel-_-19-118-392-_-Product
+
+*AMD Ryzen Threadripper 2nd Gen - https://www.newegg.com/amd-ryzen-threadripper-2970wx/p/N82E16819113546?Description=threadripper&cm_re=threadripper-_-19-113-546-_-Product&quicklink=true
+
+AMD Ryzen 5 4600G    - https://www.newegg.com/amd-ryzen-5-4600g-ryzen-5-4000-g-series/p/N82E16819113744?Description=amd&cm_re=amd-_-19-113-744-_-Product&quicklink=true
+
+Intel Core i5-12600 - https://www.newegg.com/intel-core-i5-12600-core-i5-12th-gen/p/N82E16819118371?Description=intel&cm_re=intel-_-19-118-371-_-Product
+
+
+
